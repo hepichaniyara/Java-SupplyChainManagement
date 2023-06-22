@@ -1,0 +1,53 @@
+.row{
+    
+    
+    
+    
+    
+    background-color: black;
+    
+    
+}
+
+.col-sm-2
+{
+    color: rgb(105, 128, 148);
+}
+.container p-4 {
+    background-color: black;
+}
+.border-top{
+    color: aliceblue;
+}
+
+#distbg{
+    background-color:rgb(8, 11, 11);   
+}
+
+html {
+    height: 100%;
+  }
+  /* body {
+    min-height: 100%;
+    display: table;
+    width: 100%;
+  } */
+  .content {
+    display: table-row;
+    height: 100%;
+    padding: 20px;
+  }
+  .footer {
+    padding: 20px;
+  }
+.sticky-footer
+{
+    position: sticky;
+    top: 100%;
+}
+.p-4
+{
+    position:sticky;
+    top: 100%; 
+}
+footer{ min-height: 100vh; }
